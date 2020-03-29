@@ -22,7 +22,7 @@ bio: Broad interests in Neuroscience, Online Learning, Bandits, Bayesian setting
 
 interests:
 - Neuroscience
-- Graphs generation
+- Graph generation
 - Learning (online settings, bandits, reinforcement)
 
 education:

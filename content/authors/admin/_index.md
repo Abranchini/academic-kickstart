@@ -70,7 +70,10 @@ user_groups:
 - Visitors
 ---
 
-I am an intern @LIONS at EPFL, working on learning. Exploring different fields.
-Interested in learning in humans and machines. To be updated
+I am an intern @LIONS at EPFL, Switzerland, in the group led by Prof. Volkan Cevher. I am currently studying generative models for graphs, and dwelling into optimal transport and bandits. Some other topics which make my curiosity vein tinkle are: decision making in online settings, reinforcement learning, transfer and continual learning.
+
+Previously I was doing my master thesis, entitled "Gaussian Processes for Automatic Optimization of Spinal Electrical Stimulation", in the G-Lab also at EPFL. While doing my Biochemistry bachelor I accompained a biological modelling group and did an internship at the Blue Brain Project.
+
+My background involves neuroscience, engineering and computer science. I love to understand how things work and see **how deep the rabbit hole is**, nevertheless, translating such knowledge into a useful working application is also very rewarding.
 
 Correspondence: Second Name at protonmail

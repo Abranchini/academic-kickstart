@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Intern @LIONS
+role: PhD student @LIONS
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: https://www.epfl.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Broad interests in Neuroscience, Online Learning, Bandits, Bayesian settings, Reinforcement Learning. New interest in graphs and optimal transport.
+bio: Broad interests in Neuroscience, Online Learning, Bandits, Bayesian settings, Reinforcement Learning and Physics. New interest in graphs and optimal transport.
 
 interests:
 - Neuroscience
-- Graph generation
-- Learning (online settings, bandits, reinforcement)
+- Graphs
+- Statistical and Probabilistic Machine Learning
 
 education:
   courses:
@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Abranchini
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/pabranches/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,10 +73,10 @@ user_groups:
 - Visitors
 ---
 
-I am an intern @LIONS at EPFL, Switzerland, in the group led by Prof. Volkan Cevher. I am currently studying generative models for graphs, and dwelling into optimal transport and bandits. Some other topics which make my curiosity vein tinkle are: decision making in online settings, reinforcement learning, transfer and continual learning.
+I recently started my PhD at EPFL in the LIONS group led by Prof. Volkan Cevher. Part of my PhD is funded by the iPhD Grant involving Prof. Gregoire Courtine's lab, where I will be responsible for automating the stimulation used ,in spinal cord injury patients , by employing intelligent decision making systems.
 
-Previously I was doing my master thesis, entitled "Gaussian Processes for Automatic Optimization of Spinal Electrical Stimulation", in the G-Lab also at EPFL. While doing my Biochemistry bachelor I accompained a biological modelling group and did an internship at the Blue Brain Project.
+Until now, my academic journey was definitly not a straight path. Currently, I am studying properties of graphs and generative models. I am also interested in online decision making, optimal transport, bandits and transfer and continual learning.
 
-My background involves neuroscience, engineering and computer science. I love to understand how things work and see **how deep the rabbit hole is**, nevertheless, translating such knowledge into a useful working application is also very rewarding.
+My background involves neuroscience, engineering and computer science. I love to understand how things work and see **how deep the rabbit hole is**! 
 
 Correspondence: Second Name at protonmail

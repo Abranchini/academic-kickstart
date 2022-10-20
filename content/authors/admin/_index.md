@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student @LIONS
+role: PhD student at LIONS and .Neurorestore
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,16 @@ organizations:
   url: https://www.epfl.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Broad interests in Neuroscience, Online Learning, Bandits, Bayesian settings, Reinforcement Learning and Physics. New interest in graphs and optimal transport.
+bio: Current PhD at EPFL in the LIONS and .Neurorestore.
 
 interests:
-- Neuroscience
-- Graphs
-- Statistical and Probabilistic Machine Learning
+- Automatic Machine Learning
+- Neuroscience & neurotechnologies
+- Graphs, Physics and Theory of ML
 
 education:
   courses:
-  - course: PhD in Machine Learning
+  - course: PhD in Electrical Engineering 
     institution: EPFL, Switzerland
     year: Present
   - course: MS in Computer Science
@@ -72,11 +72,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
+<div style="text-align: justify">
+I finished my second year of PhD at EPFL in the Laboratory for Information and Inference Systems led by Prof. Volkan Cevher and .Neurorestore center led by Prof. Grégoire Courtine and Prof. Jocelyne Bloch. My main responsabilities lie in automating the search, regarding the stimulation protocols used in the project of .Neurorestore where we deal with spinal cord injury patients, by employing intelligent decision making systems.
 
-I recently started my PhD at EPFL in the LIONS group led by Prof. Volkan Cevher. Part of my PhD is funded by the iPhD Grant involving Prof. Gregoire Courtine's lab, where I will be responsible for automating the stimulation used ,in spinal cord injury patients , by employing intelligent decision making systems.
-
-Until now, my academic journey was definitly not a straight path. Currently, I am studying properties of graphs and generative models. I am also interested in online decision making, optimal transport, bandits and transfer and continual learning.
+Until now, my academic journey was definitly not a straight path. Currently, I am focusing on Bayesian optimization (BO) and its applications. Nevertheless, I am also interested in understanding theoretical properties of the models we currently use.
 
 My background involves neuroscience, engineering and computer science. I love to understand how things work and see **how deep the rabbit hole is**! 
-
+</div>
 Correspondence: Second Name at protonmail
